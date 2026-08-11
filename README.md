@@ -1,3 +1,3 @@
-# Hi 👋 I'm Badol Majumdar
+# Hi 👋 I'm Badol 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badolmajumdar123&theme=github_dark)
